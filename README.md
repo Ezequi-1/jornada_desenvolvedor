@@ -1,5 +1,5 @@
 # jornada_desenvolvedor
 ## Tarefas
-- [x] Estudar o git
+- [ ] Estudar o git
 - [ ] Banco de dados relacional
 - [ ] .net
