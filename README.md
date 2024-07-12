@@ -1,6 +1,6 @@
 # jornada_desenvolvedor
 ## Tarefas
-- [ ] **Configuração inicial**
+- [x] **Configuração inicial**
      - [x] criar seu usuário na maquina como adm
      - [x] Usar o chrome
      - [x] Criar uma pasta project dentro do seu usuário
