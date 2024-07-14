@@ -7,8 +7,8 @@
      - [x] Estudar markdown
 - [ ] Estudar o git
    - [x] clonar um projeto
-   - [ ] criar uma branch
-   - [ ] realizar o commit
+   - [x] criar uma branch
+   - [x] realizar o commit
    - [ ] fazer checkout na main
    - [ ] baixar a ultima versão da main
    - [ ] merge da sua branch para a main
