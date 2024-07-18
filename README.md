@@ -12,5 +12,12 @@
    - [x] fazer checkout na main
    - [x] baixar a ultima versão da main
    - [x] merge da sua branch para a main
+- [ ] Estudar comandos principais bash
+   - [ ] Listar itens
+   - [ ] criar uma pasta
+   - [ ] acessando uma pasta
+   - [ ] excluir um arquivo
+   - [ ] criar um arquivo
+
 - [ ] Banco de dados relacional
 - [ ] .net
