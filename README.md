@@ -13,9 +13,9 @@
    - [x] baixar a ultima versão da main
    - [x] merge da sua branch para a main
 - [ ] Estudar comandos principais bash
-   - [x] Listar itens
-   - [x] criar uma pasta
-   - [x] acessando uma pasta
+   - [ ] Listar itens
+   - [ ] criar uma pasta
+   - [ ] acessando uma pasta
    - [ ] excluir um arquivo
    - [ ] criar um arquivo
 
