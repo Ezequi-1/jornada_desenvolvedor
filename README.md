@@ -20,4 +20,4 @@
    - [ ] criar um arquivo
 
 - [ ] Banco de dados relacional
-- [x] .net
+- [ ] .net
